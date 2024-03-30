@@ -1,0 +1,4 @@
+lp,imie,wiek
+1,adam,10
+2,ewa,25
+3,grzegorz,40

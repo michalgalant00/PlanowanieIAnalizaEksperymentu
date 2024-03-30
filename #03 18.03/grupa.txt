@@ -1,0 +1,4 @@
+lp imie nazwisko indeks
+1 Jan Kowalski 98765
+2 Tomasz Kot 34567
+3 Janusz Tyłyżka 76859

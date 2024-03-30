@@ -1,0 +1,4 @@
+lp,imie,wiek
+1,jan,30
+2,beata,20
+3,grażyna,70

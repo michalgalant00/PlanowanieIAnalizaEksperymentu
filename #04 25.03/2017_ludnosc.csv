@@ -1,0 +1,929 @@
+Miasto;Ludnosc
+Warszawa;1764615
+Krakow;767348
+lodz;690422
+Wroclaw;638586
+Poznan;538633
+Gdansk;464254
+Szczecin;403883
+Bydgoszcz;352313
+Lublin;339850
+Bialystok;297288
+Katowice;296262
+Gdynia;246306
+Czestochowa;224376
+Radom;214566
+Sosnowiec;204013
+Torun;202562
+Kielce;196804
+Rzeszow;189662
+Gliwice;181309
+Zabrze;174349
+Olsztyn;173070
+Bielsko-Biala;171505
+Bytom;168394
+Poznan - Stare Miasto;152399
+Zielona Gora;139819
+Rybnik;139129
+Ruda slaska;138578
+Poznan - Nowe Miasto;131210
+Tychy;128211
+Opole;128140
+Gorzow Wielkopolski;124295
+Dabrowa Gornicza;121121
+Elblag;120895
+Plock;120787
+Poznan - Grunwald;117084
+Walbrzych;113621
+Wloclawek;111752
+Tarnow;109650
+Chorzow;109021
+Koszalin;107670
+Kalisz;101625
+Legnica;100324
+Grudziadz;95629
+Jaworzno;92090
+Slupsk;91465
+Jastrzebie-Zdroj;89590
+Nowy Sacz;84041
+Jelenia Gora;80072
+  Poznan - Jezyce;80062
+Siedlce;77653
+Konin;74834
+Myslowice;74647
+Piotrkow Trybunalsk;74312
+Pila;73791
+Inowroclaw;73577
+Lubin;72892
+Ostrow Wielkopolski;72364
+Ostrowiec swietokrzysk;69852
+Suwalki;69554
+Gniezno;68943
+Stargard;68195
+Glogow;68179
+Siemianowice slaskie;67523
+Pabianice;65823
+Zamosc;64354
+Leszno;64197
+Chelm;63333
+Tomaszow Mazowiecki;63238
+lomza;63092
+zory;62243
+Stalowa Wola;61903
+Przemysl;61808
+Kedzierzyn-Kozle;61661
+Elk;61523
+Tarnowskie Gory;61262
+Pruszkow;61237
+Mielec;60628
+Tczew;60257
+Belchatow;57964
+  Poznan - Wilda;57878
+swidnica;57671
+Biala Podlaska;57545
+Bedzin;57343
+Zgierz;56690
+Piekary slaskie;55652
+Raciborz;55189
+Legionowo;54041
+Ostroleka;52215
+swietochlowice;50385
+Wejherowo;49927
+Zawiercie;49908
+Starachowice;49513
+Rumia;48632
+Wodzislaw slaski;48345
+Skierniewice;48308
+Pulawy;48114
+Starogard Gdanski;48060
+Piaseczno;47660
+Tarnobrzeg;47387
+Krosno;46600
+Kolobrzeg;46568
+Radomsko;46409
+Debica;46063
+Skarzysko-Kamienna;45953
+Otwock;44873
+Kutno;44513
+Nysa;44397
+Ciechanow;44303
+Sieradz;42570
+Zdunska Wola;42374
+swinoujscie;41032
+Mikolow;40423
+Minsk Mazowiecki;40399
+Szczecinek;40292
+zyrardow;40243
+Chojnice;39937
+swidnik;39732
+Nowa Sol;39098
+Boleslawiec;39084
+Malbork;38723
+Oswiecim;38678
+Knurow;38594
+Kwidzyn;38553
+Sanok;37980
+zary;37907
+Jaroslaw;37892
+Olesnica;37300
+Wolomin;37164
+Chrzanow;37123
+Sochaczew;36790
+Sopot;36533
+Brzeg;36110
+Olkusz;35921
+Czechowice-Dziedzice;35795
+Zabki;35770
+Jaslo;35445
+Lebork;35413
+Cieszyn;34876
+Krasnik;34821
+Dzierzoniow;33653
+Nowy Targ;33361
+Ostroda;33243
+Ilawa;33132
+Police;32970
+Olawa;32883
+Marki;32686
+Myszkow;31974
+Czeladz;31901
+Lubon;31653
+zywiec;31560
+Mlawa;31243
+Grodzisk Mazowiecki;30955
+Swarzedz;30739
+Zgorzelec;30738
+Pruszcz Gdanski;30468
+lukow;30310
+Wrzesnia;30279
+Augustow;30270
+Bielawa;30207
+Bochnia;29992
+srem;29845
+Gizycko;29480
+Krotoszyn;29109
+Brodnica;28717
+lowicz;28704
+Nowy Dwor Mazowiecki;28637
+Czerwionka-Leszczyny;28329
+Gorlice;27781
+Ketrzyn;27478
+Turek;27311
+Zakopane;27266
+Klodzko;27193
+Wyszkow;26965
+Bilgoraj;26550
+Jarocin;26238
+zagan;26148
+swiecie;25924
+Pszczyna;25906
+Bielsk Podlaski;25611
+Wagrowiec;25607
+Walcz;25533
+Reda;25102
+Bialogard;24368
+Skawina;24325
+Koscian;23907
+Lubliniec;23899
+Sandomierz;23863
+Bartoszyce;23810
+Koscierzyna;23809
+Kluczbork;23797
+Szczytno;23500
+Jawor;23266
+sroda Wielkopolska;23124
+Kobylka;23120
+Wieliczka;22946
+swiebodzice;22840
+Wielun;22794
+Piastow;22732
+Ostrow Mazowiecka;22656
+Goleniow;22553
+Polkowice;22504
+Nowa Ruda;22455
+laziska Gorne;22390
+Kolo;22227
+Plonsk;22214
+Zambrow;22173
+Lubartow;22138
+Grajewo;22049
+swiebodzin;21954
+Mragowo;21889
+Rydultowy;21700
+Aleksandrow lodzki;21535
+Opoczno;21534
+Gryfino;21393
+Dzialdowo;21370
+Luban;21318
+Prudnik;21237
+Hajnowka;20919
+Orzesze;20773
+Andrychow;20567
+Jozefow;20488
+Rawicz;20406
+Gostyn;20182
+Trzebinia;19954
+Chelmno;19911
+Ozorkow;19685
+Sulejowek;19663
+Bierun;19639
+Konskie;19534
+Pultusk;19448
+Pisz;19386
+Tomaszow Lubelski;19365
+Kamienna Gora;19348
+leczna;19167
+Sokolow Podlaski;18924
+Krasnystaw;18912
+Kety;18886
+Chodziez;18877
+Wadowice;18851
+Szamotuly;18835
+Gostynin;18720
+Pionki;18618
+Naklo nad Notecia;18531
+Zlotow;18441
+Pyskowice;18417
+Myslenice;18415
+Oborniki;18341
+Sokolka;18331
+Miedzyrzecz;18255
+Sierpc;18148
+Strzelce Opolskie;18057
+Konstantynow lodzki;18013
+Kostrzyn nad Odra;17918
+Hrubieszow;17903
+Radlin;17861
+lancut;17777
+Bogatynia;17762
+Zielonka;17539
+Kozienice;17518
+lask;17484
+Rawa Mazowiecka;17480
+Pleszew;17437
+Garwolin;17381
+Trzcianka;17228
+Przasnysz;17223
+Konstancin-Jeziorna;17191
+Libiaz;17135
+Braniewo;17074
+Sulechow;17012
+Bytow;16983
+Miedzyrzec Podlaski;16925
+Brzesko;16884
+lomianki;16875
+Ledziny;16819
+Slubice;16816
+Radzionkow;16798
+Nowogard;16756
+Gubin;16740
+Grojec;16674
+Gryfice;16600
+Olecko;16508
+Krapkowice;16500
+Rypin;16482
+Deblin;16398
+Milanowek;16398
+Namyslow;16360
+Strzegom;16272
+Ustron;16108
+Busko-Zdroj;16092
+Lidzbark Warminski;15877
+Jelcz-Laskowice;15867
+Ropczyce;15848
+Radzyn Podlaski;15808
+Zlotoryja;15783
+swidwin;15725
+Ustka;15709
+lapy;15689
+Solec Kujawski;15661
+Boguszow-Gorce;15566
+Przeworsk;15452
+Jedrzejow;15369
+Nisko;15355
+Choszczno;15352
+Zabkowice slaskie;15219
+Limanowa;15103
+Staszow;14942
+Nowy Tomysl;14702
+Chelmza;14645
+Kartuzy;14611
+Grodzisk Wielkopolski;14595
+Lipno;14592
+Siemiatycze;14590
+Skoczow;14504
+Glowno;14422
+Ostrzeszow;14325
+leczyca;14252
+Kepno;14190
+Lubsko;14182
+Pszow;14114
+Wschowa;14084
+znin;14041
+Morag;13994
+Lezajsk;13990
+Debno;13931
+Darlowo;13924
+Nidzica;13872
+Czluchow;13869
+Barlinek;13853
+Slupca;13851
+Tuchola;13793
+Mosina;13762
+Wabrzezno;13749
+Goldap;13740
+Glucholazy;13735
+Chojnow;13573
+Brwinow;13533
+Wlodawa;13350
+Wolsztyn;13328
+Trzebnica;13261
+Koluszki;13148
+Zlocieniec;13068
+Klobuck;13014
+Rabka-Zdroj;12883
+Golub-Dobrzyn;12828
+Wegrow;12765
+Pyrzyce;12709
+Radzymin;12644
+Glubczyce;12624
+Slawno;12590
+Brzeziny;12534
+Niepolomice;12507
+Brzeg Dolny;12486
+Wolow;12439
+Strzelin;12423
+Blonie;12354
+Paslek;12298
+Aleksandrow Kujawski;12270
+Lubaczow;12101
+Mogilno;11995
+Gora;11994
+Janow Lubelski;11986
+Szprotawa;11944
+Gora Kalwaria;11942
+Dabrowa Tarnowska;11924
+Warka;11894
+Szydlowiec;11854
+Miechow;11696
+Drawsko Pomorskie;11672
+Zdzieszowice;11633
+Krosno Odrzanskie;11524
+Milicz;11482
+Wegorzewo;11438
+Brzeszcze;11345
+Mysliborz;11328
+Ozarow Mazowiecki;11311
+Wronki;11293
+Puck;11265
+Koronowo;11230
+Nowa Deba;11215
+Rogozno;11115
+Wisla;11106
+Kowary;11090
+Wasilkow;11074
+Nowe Miasto Lubawskie;10997
+Pinczow;10946
+Czarnkow;10784
+Krynica-Zdroj;10757
+Parczew;10748
+Miedzychod;10660
+Miastko;10605
+Ciechocinek;10586
+Biskupiec;10539
+Sycow;10413
+Murowana Goslina;10391
+Kolno;10372
+lobez;10299
+Bukowno;10297
+Dobre Miasto;10293
+Drezdenko;10282
+Lubawa;10269
+Bystrzyca Klodzka;10239
+Sulecin;10168
+Sztum;10127
+Wloszczowa;10096
+Krzeszowice;10090
+Monki;10042
+Trzebiatow;10025
+Kudowa-Zdroj;10018
+Strzelce Krajenskie;10012
+Wladyslawowo;10009
+Nowy Dwor Gdanski;9964
+Karczew;9960
+Czersk;9909
+Makow Mazowiecki;9860
+Ryki;9768
+Kostrzyn;9711
+Puszczykowo;9693
+Blachownia;9676
+Skwierzyna;9669
+Opalenica;9664
+Szubin;9602
+Kozuchow;9520
+sroda slaska;9428
+Czarna Bialostocka;9402
+Olesno;9400
+Wysokie Mazowieckie;9390
+Poniatowa;9320
+Sucha Beskidzka;9295
+Sepolno Krajenskie;9243
+Ustrzyki Dolne;9176
+Kolbuszowa;9158
+Pobiedziska;9139
+Oborniki slaskie;9118
+Chelmek;9090
+Imielin;9052
+Stary Sacz;9020
+Wojkowice;8984
+zuromin;8941
+Kruszwica;8926
+Orneta;8924
+Lwowek slaski;8895
+Strzyzow;8893
+Kamien Pomorski;8868
+Janikowo;8844
+Ozimek;8807
+Ziebice;8796
+Prabuty;8710
+Grodkow;8700
+Wolbrom;8686
+Jastrowie;8662
+Kalety;8627
+Opole Lubelskie;8605
+Wieruszow;8600
+Poreba;8581
+Suchedniow;8478
+zychlin;8288
+Polaniec;8181
+Polczyn-Zdroj;8181
+Tluszcz;8127
+Pniewy;8037
+Chocianow;7996
+Mszana Dolna;7982
+Pelplin;7912
+Lidzbark;7900
+Witkowo;7873
+Zwolen;7855
+Kornik;7793
+Trzemeszno;7752
+Praszka;7724
+Nasielsk;7701
+Olsztynek;7677
+Zelow;7665
+Paczkow;7600
+Poddebice;7530
+Sedziszow Malopolski;7524
+Barcin;7516
+Barczewo;7472
+Brzozow;7471
+Chojna;7440
+Miasteczko slaskie;7419
+Siechnice;7410
+Tuszyn;7293
+Zbaszyn;7265
+Zawadzkie;7250
+Gniewkowo;7202
+Pieszyce;7170
+Czaplinek;7155
+Skarszewy;7103
+losice;7096
+Slawkow;7040
+Bialobrzegi;7015
+Sobotka;6951
+lazy;6882
+lochow;6848
+Katy Wroclawskie;6846
+Witnica;6821
+zarow;6811
+Pajeczno;6792
+Gniew;6791
+Twardogora;6784
+Rudnik nad Sanem;6728
+Tuchow;6693
+Gryfow slaski;6684
+Szklarska Poreba;6681
+zukowo;6677
+Sianow;6666
+Gogolin;6640
+Sulkowice;6614
+Belzyce;6608
+Rzepin;6590
+Kozmin Wielkopolski;6590
+Klodawa;6530
+Opatow;6516
+Sedziszow;6494
+Pilawa Gorna;6479
+zmigrod;6472
+Mszczonow;6433
+Gluszyca;6431
+Niemodlin;6431
+Glogow Malopolski;6431
+Dobczyce;6425
+Polanica-Zdroj;6381
+Piechowice;6314
+Sulejow;6226
+Krzyz Wielkopolski;6222
+Przemkow;6217
+Dynow;6146
+Lubawka;6106
+Boguchwala;6096
+Buk;6096
+Grybow;6089
+Proszowice;6088
+Kietrz;6061
+Sierakow;6046
+Koniecpol;6002
+Wielen;5988
+Czarne;5983
+Nowa Sarzyna;5970
+Wiecbork;5969
+Wolczyn;5958
+Steszew;5952
+Dzialoszyn;5950
+Karlino;5950
+Przysucha;5934
+Piwniczna-Zdroj;5925
+Makow Podhalanski;5919
+Nowe;5913
+Piensk;5866
+Choroszcz;5834
+Szczawnica;5807
+Lewin Brzeski;5774
+Jedlicze;5761
+Stronie slaskie;5755
+Staporkow;5754
+Pakosc;5744
+smigiel;5719
+Strzelno;5701
+Szczyrk;5699
+Ladek-Zdroj;5685
+scinawa;5677
+Szczawno-Zdroj;5650
+Radziejow;5638
+Dabrowa Bialostocka;5632
+Kazimierza Wielka;5619
+Orzysz;5615
+Glogowek;5607
+Terespol;5594
+Lipsko;5592
+Susz;5586
+Lesko;5532
+Siewierz;5520
+Sejny;5472
+Miedzyzdroje;5422
+Dzierzgon;5413
+Kuznia Raciborska;5402
+Jordanow;5362
+Radymno;5335
+Czempin;5296
+Szczytna;5242
+Brusy;5209
+Nowogrod Bobrzanski;5172
+Jaworzyna slaska;5164
+Wyrzysk;5163
+Odolanow;5155
+Debrzno;5152
+Szczebrzeszyn;5117
+Zagorz;5105
+Bolkow;5047
+Zbaszynek;5042
+Borne Sulinowo;4984
+Bychawa;4976
+Otmuchow;4946
+Bierutow;4935
+Muszyna;4909
+Pilzno;4892
+Jedlina-Zdroj;4887
+laskarzew;4879
+Wolin;4842
+Ilza;4832
+Nowe Skalmierzyce;4798
+Duszniki-Zdroj;4728
+Karpacz;4711
+Kcynia;4678
+Brzesc Kujawski;4660
+Ciechanowiec;4655
+Biecz;4629
+Suprasl;4621
+Reszel;4615
+Ozarow;4594
+Ruciane-Nida;4579
+Pilawa;4557
+Kalwaria Zebrzydowska;4551
+Zduny;4543
+zarki;4539
+Lesna;4532
+labiszyn;4501
+Golina;4493
+Piotrkow Kujawski;4490
+Krzepice;4488
+Raciaz;4437
+Krosniewice;4426
+Checiny;4421
+Kalisz Pomorski;4399
+Rejowiec Fabryczny;4396
+Mrocza;4395
+Wozniki;4393
+Skaryszew;4375
+Bytom Odrzanski;4365
+Slomniki;4359
+Serock;4353
+Jasien;4348
+Olszyna;4347
+Korsze;4346
+Skoki;4314
+Ogrodzieniec;4313
+Slawa;4311
+Krobia;4304
+Szamocin;4302
+Resko;4255
+zabno;4248
+Nowogrodziec;4244
+Zawidow;4232
+Kleczew;4212
+swieradow-Zdroj;4209
+Nowy Staw;4196
+Kowalewo Pomorskie;4192
+Szczucin;4163
+Mieroszow;4147
+Sokolow Malopolski;4133
+Gabin;4127
+Tarczyn;4105
+Czerwiensk;4094
+Bobolice;4061
+Biala Piska;4041
+Gorowo Ilaweckie;4021
+Janowiec Wielkopolski;4016
+Ploty;3995
+zelechow;3994
+Lipiany;3982
+Ilowa;3947
+Mirsk;3938
+Okonek;3929
+Babimost;3923
+Osno Lubuskie;3911
+Podkowa Lesna;3875
+Drzewica;3865
+Mikolajki;3852
+Nowe Miasto nad Pilica;3830
+Malogoszcz;3809
+Tyczyn;3805
+Rymanow;3792
+Bransk;3785
+Jablonowo Pomorskie;3782
+Pruchnik;3772
+Skala;3770
+Kargowa;3766
+Chmielnik;3752
+Naleczow;3750
+Dobrodzien;3749
+Barwice;3742
+Ujscie;3738
+Opatowek;3723
+Nekla;3719
+Halinow;3718
+Wojcieszow;3696
+Strumien;3696
+leba;3694
+Zator;3691
+Mieszkowice;3681
+Szczekociny;3679
+Krajenka;3678
+Byczyna;3651
+Prochowice;3646
+Kepice;3646
+Przedborz;3615
+Skorcz;3609
+Skepe;3607
+Toszek;3596
+Miloslaw;3589
+Sompolno;3587
+Mrozy;3576
+Rakoniewice;3571
+Kowal;3544
+Malomice;3512
+Strykow;3493
+Szczuczyn;3426
+Myszyniec;3397
+Tarnogrod;3395
+Rzgow;3385
+Alwernia;3380
+Hel;3373
+Wojnicz;3365
+Zloczew;3351
+Kock;3342
+Maszewo;3342
+Kolonowskie;3324
+Tuliszkow;3322
+lasin;3320
+Golancz;3294
+Miejska Gorka;3261
+Warta;3258
+Jeziorany;3258
+Kobylin;3256
+Zwierzyniec;3235
+Zakroczym;3211
+Biala Rawska;3206
+Chociwel;3183
+Kanczuga;3182
+Radomysl Wielki;3167
+Pyzdry;3164
+Dobrzyca;3153
+Krasnobrod;3138
+slesin;3135
+Bobowa;3123
+Gozdnica;3100
+Dobiegniew;3087
+Michalowo;3073
+Chorzele;3069
+Wilamowice;3065
+Miroslawiec;3065
+Lubraniec;3052
+Oleszyce;3041
+Glinojeck;3027
+Zagorow;3024
+Zaklikow;3017
+cmielow;3014
+Uniejow;3011
+Margonin;3011
+Mielno;3000
+Lwowek;2999
+Niemcza;2981
+lobzenica;2971
+Kunow;2970
+Polanow;2949
+Bojanowo;2940
+Baborow;2933
+Recz;2930
+Kaluszyn;2927
+Drobin;2925
+Daleszyce;2914
+Sulmierzyce;2899
+Wegliniec;2868
+Ryn;2865
+Wegorzyno;2865
+Czarna Woda;2841
+Poniec;2841
+Ryglice;2831
+Zloty Stok;2821
+Nowe Miasteczko;2816
+Kamiensk;2812
+Rydzyna;2811
+Pieniezno;2802
+Wachock;2795
+Knyszyn;2782
+Radlow;2780
+Cybinka;2755
+Rozan;2755
+Ksiaz Wielkopolski;2749
+Jastarnia;2736
+Nowy Wisnicz;2728
+Tolkmicko;2719
+Brzostek;2714
+Dziwnow;2707
+Wasosz;2688
+Wysoka;2688
+Golczewo;2686
+Izbica Kujawska;2677
+Lesnica;2668
+Czyzew;2640
+Wyszogrod;2634
+Klecko;2631
+Miedzylesie;2623
+Czerniejewo;2620
+Milakowo;2609
+Kazimierz Dolny;2607
+Bardo;2603
+Proszkow;2603
+Piaski;2598
+Pelczyce;2597
+Annopol;2572
+Stoczek lukowski;2556
+Pasym;2549
+Torzym;2529
+Borek Wielkopolski;2523
+leknica;2500
+Jozefow;2498
+Koprzywnica;2497
+Tychowo;2495
+Stepnica;2478
+Zabludow;2476
+Ciezkowice;2470
+Lubycza Krolewska;2469
+Biala;2454
+Gorzow slaski;2451
+Milomlyn;2449
+Trzciel;2445
+Goscino;2436
+Radkow;2427
+Krynki;2424
+Kozieglowy;2424
+swiatniki Gorne;2422
+Bisztynek;2417
+Kamien Krajenski;2394
+Frombork;2389
+Czchow;2380
+Rychwal;2379
+Obrzycko;2378
+Lipsk;2376
+Miedzyborz;2362
+Dobra;2353
+Wolborz;2336
+Czlopa;2326
+Osieczna;2322
+swierzawa;2315
+Drawno;2307
+Trzcinsko-Zdroj;2297
+Wiazow;2296
+Mogielnica;2294
+Dobrzany;2288
+Bodzentyn;2238
+Prusice;2235
+Stawiski;2229
+Szepietowo;2209
+Suchowola;2196
+laszczow;2190
+Nowogrod;2173
+Bialy Bor;2171
+Krzanowice;2168
+Zalewo;2165
+Dobrzyn nad Wisla;2161
+Blaszki;2158
+Blazowa;2148
+Sieniawa;2146
+Kisielice;2135
+Tyszowce;2120
+Kosow Lacki;2120
+zerkow;2120
+Narol;2102
+Raszkow;2101
+Dukla;2098
+Pogorzela;2098
+Ostrow Lubelski;2095
+Rejowiec;2084
+Lubniewice;2019
+Dabie;2017
+Drohiczyn;2011
+Osiek;2004
+Lubomierz;2002
+Tykocin;1980
+Sepopol;1970
+Pilica;1967
+Jutrosin;1966
+Insko;1965
+Szadek;1957
+Brok;1955
+Grabow nad Prosna;1941
+Ostrorog;1941
+Cieszanow;1940
+Tuczno;1931
+Nieszawa;1914
+Chodecz;1885
+Sosnicowice;1881
+Biezun;1875
+Mikstat;1866
+Radzyn Chelminski;1851
+Korfantow;1842
+Goniadz;1827
+Chocz;1811
+Wlen;1806
+Iwonicz-Zdroj;1798
+Zawichost;1793
+Mlynary;1792
+Mordy;1780
+Ujazd;1770
+Wielichowo;1767
+Przeclaw;1748
+Morawica;1730
+Krzywin;1714
+Urzedow;1703
+Przedecz;1690
+Nowe Brzesko;1674
+Zakliczyn;1656
+Cedynia;1625
+Jedwabne;1624
+Moryn;1620
+Rajgrod;1571
+Dolsk;1569
+Stawiszyn;1530
+Suchan;1490
+Baranow Sandomierski;1477
+Modliborzyce;1469
+Jaraczewo;1467
+Kolaczyce;1434
+Stopnica;1434
+Frampol;1433
+Siedliszcze;1418
+Ulanow;1405
+Gorzno;1403
+Dobra;1396
+Lubien Kujawski;1391
+Krynica Morska;1302
+Kleszczele;1297
+Skalbmierz;1292
+Szlichtyngowa;1289
+Nowe Warpno;1196
+Suraz;992
+Dzialoszyce;913
+Wysmierzyce;896

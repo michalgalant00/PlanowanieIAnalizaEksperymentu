@@ -1,0 +1,4 @@
+lp,imie,wiek
+1,dawid,2
+2,janusz,8
+3,piotr,20
