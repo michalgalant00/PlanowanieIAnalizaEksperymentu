@@ -91,7 +91,7 @@ d = matrix(sample(1:20, 12), nrow = 3, ncol = 4)
 
 l = list(a,b,c,d)
 l[[2]]
-l[[4]][2,1]
+l[[4]][2]
 
 l = list(wektor_liczbowy=a, wektor_logiczny=b, faktor=c, macierz=d)
 l$wektor_liczbowy

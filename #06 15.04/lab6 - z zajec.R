@@ -86,12 +86,27 @@ chisq.test(proba,
 # p-value = 0.7355 >= 0.05 -> nie ma podstaw do odrzucenia hipotezy podstawowej
 
 
+# ===================================================================
+#  
+#                          LABORATORIUM 7
+#  
+# ===================================================================
+
 #====
-# lab 7 - zad 1 - PD
+# zad 1 (Test chi kwadrat Pearsona)
+# H0: F = Fdwumianowy 
+# H1: ~H0
+proba = c(7, 5, 4, 3, 3, 4, 2, 3, 3, 3, 6, 5, 2, 4, 1, 4, 5)
+
+probs = dbinom(sort(proba), 10, 0.4)
+probs = probs/sum(probs)
+chisq.test(proba,
+           p = probs)
+# p-value = 3.191e-10 (~0,0000000003191) < 0.05 -> odrzucamy hipotezę podstawową
 
 
 #====
-# lab 7 - zad 2 (Test zgodności Kołmogorowa-Smirnova)
+# zad 2 (Test zgodności Kołmogorowa-Smirnova)
 # H0: F = Fnorm (rozkład normalny jest rozkładem ciągłym) (srednia, odchylenie)
 # H1: ~H0
 
@@ -114,26 +129,45 @@ shapiro.test(x = proba)
 
 
 #====
-# lab 7 - zad 3
+# zad 3
 plucaPath = 'C:/0_studia/planowanie i analiza eksperymentu/lab/#06 15.04/pluca.txt'
 dta = read.table(file = plucaPath, header = T, sep = ' ')
 
 # H0: F1 = F2 (rozkład pierwszej próby jest taki sam jak drugiej próby)
 # H1: ~H0
 
+
 # ks.test(proba1, proba2)
 
 
+#====
+# zad 4 (Test chi kwadrat Pearsona)
+# H0: Fprobki1(rozk. Cauchyego) = Fprobki2(rozk. normalny) 
+# H1: ~H0
 
+# rozkład Cauchyego
+proba1 = rcauchy(60, location = 0, scale = 1)
+# rozkład normalny
+proba2 = rnorm(55, mean = 0, sd = 1)
+
+ks.test(proba1, proba2)
+# p-value = 0.2945 >= 0.05 -> nie ma podstaw do odrzucenia hipotezy podstawowej
 
 
 #====
-# TODO zad 1, 4, 5
+# zad 5 (Test chi kwadrat Pearsona)
+# H0: F = Fdwumianowy 
+# H1: ~H0
 
+ramka_ = data.frame(A = c( 1, 4, 8),
+                    B = c( 2, 1,-6),
+                    C = c(-7, 0,-3),
+                    D = c( 3,-2, 4),
+                    E = c( 5,-9, 1))
 
+ramka_$Suma = apply(ramka_[,1:5], 1, sum)
+ramka_$`Suma(A, C, E)` = apply(ramka_[c("A", "C", "E")], 1, sum)
+ramka_$Max = apply(ramka_[,1:5], 1, max)
+ramka_$MaxAbsValue = apply(ramka_[,1:5], 1, function(x) max(abs(x)))
 
-
-
-
-# kolos 22.04
-# 4-5 zadań podobnych do setu z labów 
+ramka_

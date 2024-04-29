@@ -73,6 +73,35 @@ bez_powtorzen = sample(seq(23, 131, by = 6), size = 14, replace = F)
 z_powtorzeniami = sample(seq(23, 131, by = 6), size = 14, replace = T)
 
 
+# zad 6
+tv_ = round(rnorm(mean = 4, sd = 1.5, n = 80))
+pc_ = round(rnorm(mean = 6, sd = 2, n = 80))
+
+# a
+barplot(table(tv_), main = "Czas spędzany przed telewizorem")
+barplot(table(pc_), main = "Czas spędzany przed komputerem")
+
+# b
+barplot(sort(table(tv_)), main = "Posortowany czas spędzany przed telewizorem")
+barplot(sort(table(pc_)), main = "Posortowany czas spędzany przed komputerem")
+
+# c
+barplot(table(tv_, tv_), main = "Częstotliwość czasu spędzanego przed telewizorem")
+barplot(table(pc_, pc_), main = "Częstotliwość czasu spędzanego przed komputerem")
+
+# d
+barplot(table(pc_, tv_), legend.text = TRUE, col = rainbow(12), main = "Czas spędzany przed telewizorem i komputerem", ylim = c(0, 15))
+
+# e
+barplot(table(pc_, tv_), legend.text = TRUE, col = rainbow(12), main = "Czas spędzany przed telewizorem i komputerem", ylim = c(0, 15))
+axis(2, at = seq(0, 15, by = 1))
+
+# f
+barplot(table(pc_, tv_), legend.text = TRUE, col = rainbow(12), main = "Czas spędzany przed telewizorem i komputerem", ylim = c(0, 15))
+axis(2, at = seq(0, 15, by = 1))
+abline(h = seq(0, 15, by = 1), col = "gray")
+
+
 # zad 7
 # generowanie z zad 6
 tv_ = round(rnorm(mean = 4, sd = 1.5, n = 80))
